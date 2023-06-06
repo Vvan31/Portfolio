@@ -1,0 +1,37 @@
+{
+   "information" : {
+        "title" : ["Hi!", "¡Hola!", "Bonjour!","नमस्ते" ,"你好!", "こんにちは!", "안녕하세요!", "สวัสดีครับ!", "Xin chào!"],
+        "description": "I'm a Fullstack Software Developer with a solid background in coding and an eye for creativity. I thrive on collaborating with cross-functional teams to create intuitive and engaging user interfaces. Feel free to explore my work and get in touch!"
+    },
+    "work":{
+        "title": "Work Experience",
+        "jobs": [
+            {
+                "title": "Front-end web developer ",
+                "company": "ITcomplements",
+                "location": "Mexico City, Mexico",
+                "date": "August 2021 - Present",
+                "description": "Assisted in transitioning web platform distribution to Amazon Web Services and WordPress, leading to a fivefold faster design implementation.Developed web pages from design using Bootstrap, GSAP, SASS, and JavaScript. Allowing the company to support the launch services in Canada, improve marketing campaigns' efficiency, and expand the international target audience using English and French.Implemented internationalization in a React-based web platform to support multiple languages translation based on the user's browser default language."
+            },
+            {
+                "title": "Volunteer",
+                "company": "VIFF",
+                "location": "Vancouver, Canada",
+                "date": "September 2022 - October 2022",
+                "description": "I worked collaboratively with different teams and individuals in a fast-paced and dynamic environment, to ensure a seamless experience for attendees. My primary responsibilities included directing and guiding attendees to their designated screens and providing event support where the ability to adapt quickly and work well under pressure was essential."
+            }
+        ]
+    },
+    "skills":{
+        "languages":[
+            "JavaScript", "Typescript", "Python", "Ruby", "HTML", "CSS", "Swift", "Bash", "Java", "Kotlin", "C"
+        ],
+        "frameworks":[
+            "NodeJS", "ReactJS", "React Router", "AWS", "Bootstrap", "Pandas", "Numpy", "JQuery", "Redux", "Gatsby", "Material UI", "SASS", "GSAP"
+        ],
+        "systems":[
+            "Linux", "SQL", "MongoDB", "Git", "Firebase", "NoSQL"
+        ]
+    }
+
+}
