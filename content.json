@@ -27,7 +27,7 @@
             "JavaScript", "Typescript", "Python", "Ruby", "HTML", "CSS", "Swift", "Bash", "Java", "Kotlin", "C"
         ],
         "frameworks":[
-            "NodeJS", "ReactJS", "React Router", "AWS", "Bootstrap", "Pandas", "Numpy", "JQuery", "Redux", "Gatsby", "Material UI", "SASS", "GSAP"
+            "NodeJS", "React","NextJS" ,"React Router", "AWS", "Bootstrap", "Pandas", "Numpy", "JQuery", "Redux", "Gatsby", "Material UI", "SASS", "GSAP"
         ],
         "systems":[
             "Linux", "SQL", "MongoDB", "Git", "Firebase", "NoSQL"
