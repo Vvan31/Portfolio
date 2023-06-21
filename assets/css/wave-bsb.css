@@ -306,6 +306,58 @@ p {
     margin-bottom: 1rem;
     margin-top: 0
 }
+.mainImage{
+    background-color: rgb(21,23,24);
+}
+.title{
+    font-family: 'Work Sans';
+    font-weight: 900;
+}
+.titleContainer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+  }
+  
+  .scrollTitle {
+    font-family: 'Work Sans';
+    font-weight: 900;
+    /* mix-blend-mode: difference; */
+    font-size: 5rem;
+    word-wrap: break-word;
+  }
+  
+.subtitle{
+    font-family: 'Work Sans';
+    font-weight: 600;
+}
+.image{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+.content{
+    padding-left: 15% !important;
+    padding-right: 15% !important;
+}
+
+@media(min-width:992px){
+    .image{
+        width: 100% ;
+    }
+    .content{
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+    }
+    .sectionContainer .scrollTitle {
+        font-size: small !important;
+      }
+}
+
 
 abbr[title] {
     cursor: help;
@@ -6310,8 +6362,10 @@ fieldset:disabled .btn {
     line-height: 1.5;
     text-align: center;
     margin-right: 10px;
-    height: 11rem;
-    width: 25rem;
+    height: 150px;
+    width: 400px;
+    min-width: 40%;
+    max-width: 40%;
 }
 .icon{
     /* width: 70%;
