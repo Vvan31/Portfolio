@@ -1,6 +1,6 @@
 {
    "information" : {
-        "title" : ["Hi!", "¡Hola!", "Bonjour!","नमस्ते" ,"你好!", "こんにちは!", "안녕하세요!", "สวัสดีครับ!", "Xin chào!"],
+        "title" : ["Hi!", "¡Hola!", "Bonjour!","नमस्ते!" ,"你好!", "こんにちは!", "നമസ്‌കാരം!","안녕하세요!", "สวัสดีครับ!", "Xin chào!"],
         "description": "I'm a Fullstack Software Developer with a solid background in coding and an eye for creativity. I thrive on collaborating with cross-functional teams to create intuitive and engaging user interfaces. Feel free to explore my work and get in touch!"
     },
     "work":{
